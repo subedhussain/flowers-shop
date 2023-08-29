@@ -1,0 +1,31 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.header-banner {
+
+    height: 550px;
+    background-color: rgba(229, 84, 115, 0.10);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+.banner-img {
+    width: 300px;
+    height: 500px;  
+    margin-top: 50px;
+}
+
+.banner-title {
+    color: #272727;
+    font-family: Lato;
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 800;
+
+}
+
+.header-banner-left {}
