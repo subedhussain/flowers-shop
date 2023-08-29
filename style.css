@@ -248,19 +248,25 @@
     border-radius: 8px;
     border: none;
     background: #FFF;
-    padding: 5px 0px;
+    padding: 5px 15px;
 }
 
 footer {
     background: #000;
     width: 100%;
-    height: 250px;
+    height: 280px;
     margin-top: 70px;
 }
 
 .final-footer{
-    text-align: center;
+    position: absolute;
+    margin-top: 70px;
      
+}
+.footer-main{
+    text-align: center;
+    width: 40%;
+    margin: 0px auto;
 }
 
 .footer-heading {
