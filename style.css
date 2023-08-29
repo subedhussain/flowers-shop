@@ -3,6 +3,7 @@
     padding: 0px;
 }
 
+/* Header banner start */
 .header-banner {
 
     height: 550px;
@@ -46,4 +47,77 @@
     margin-top: 40px;
     color: white;
 
+}
+
+/* Header banner End */
+
+.feature-flower {
+    text-align: center;
+}
+
+.feature-flower-title {
+    color: #272727;
+    font-family: Lato;
+    font-size: 30px;
+    font-weight: 800;
+    line-height: normal;
+    margin-top: 100px;
+}
+
+.feature-flower-description {
+    color: rgba(39, 39, 39, 0.60);
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 25px;
+    margin-top: 20px;
+}
+
+.flower-tree-one {
+    background: rgba(167, 33, 98, 0.15);
+    border-radius: 300px 300px 0px 0px;
+
+}
+
+.flower-tree-two {
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+
+}
+
+.flower-tree-three {
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+}
+
+.flower-tree {
+    display: flex;
+    margin-left: 200px;
+    
+}
+
+.flower {
+    width: 300px;
+    height: 350px;
+    margin-left: 20px;
+}
+.flower-img3{
+    height: 350px;
+    width: 300px;
+}
+.flower-img2{
+    height: 350px;
+    width: 300px;
+}
+
+.flower-img1{
+    height: 330px;
+    width: 270px;
+    margin-top: 20px;
+}
+
+.flower-name{
+    display: flex;
+    justify-content: space-around;
 }
