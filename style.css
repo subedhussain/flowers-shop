@@ -72,6 +72,7 @@
     font-weight: 400;
     line-height: 25px;
     margin-top: 20px;
+    margin-bottom: 60px;
 }
 
 .flower-tree-one {
@@ -94,7 +95,7 @@
 .flower-tree {
     display: flex;
     margin-left: 200px;
-    
+
 }
 
 .flower {
@@ -102,22 +103,107 @@
     height: 350px;
     margin-left: 20px;
 }
-.flower-img3{
-    height: 350px;
-    width: 300px;
-}
-.flower-img2{
+
+.flower-img3 {
     height: 350px;
     width: 300px;
 }
 
-.flower-img1{
+.flower-img2 {
+    height: 350px;
+    width: 300px;
+}
+
+.flower-img1 {
     height: 330px;
     width: 270px;
     margin-top: 20px;
 }
 
-.flower-name{
+.flower-nam {
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 35px;
+    text-decoration-line: underline;
+    margin-top: 20px;
+}
+
+.hot-deal {
+    background: rgba(229, 84, 115, 0.05);
     display: flex;
     justify-content: space-around;
+    align-items: center;
+    padding: 80px;
+    margin-top: 60px;
 }
+
+.hot-deal-left {
+    text-align: center;
+
+
+}
+
+.hot-deal-title {
+    color: #272727;
+    font-family: Lato;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+
+}
+
+.off-color {
+    color: #E55473;
+}
+
+.hot-deal-description {
+    color: rgba(39, 39, 39, 0.60);
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 20px;
+    margin-top: 20px;
+}
+
+.instagram {
+    text-align: center;
+    margin-top: 60px;
+}
+
+.instagram-heading {
+    color: #272727;
+    font-family: Lato;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 800;
+}
+
+
+.instagram-description {
+    color: rgba(39, 39, 39, 0.60);
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+    margin-top: 30px;
+}
+
+.rectangular {
+    display: flex;
+    margin:75px;
+    
+}
+.rectangular-img1{
+    height: 320px;
+    width: 280px;
+    margin-left: 10px;
+
+}
+
